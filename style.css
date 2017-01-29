@@ -1,0 +1,146 @@
+#cnntext {
+	top: 135px;
+	left: 20%;
+	position: fixed;
+	height: 80%;
+	width: 20%;
+	color: #000000;
+	z-index: 100;
+	text-align: left;
+}
+
+#huffpost {
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	height: 100%;
+	width: 20%;
+	background-color: #232066;
+	opacity: 0.50;
+}
+
+#cnn {
+	top: 0px;
+	left: 20%;
+	position: fixed;
+	height: 100%;
+	width: 20%;
+	background-color: #5A587B;
+	opacity: 0.50;
+}
+
+#bbc {
+	top: 0px;
+	left: 40%;
+	position: fixed;
+	height: 100%;
+	width: 20%;
+	background-color: #909090;
+	opacity: 0.50;
+}
+
+#fox {
+	top: 0px;
+	left: 60%;
+	position: fixed;
+	height: 100%;
+	width: 20%;
+	background-color: #BD574F;
+	opacity: 0.50;
+}
+
+#breitbart {
+	top: 0px;
+	left: 80%;
+	position: fixed;
+	height: 100%;
+	width: 20%;
+	background-color: #E91D0E;
+	opacity: 0.50;
+}
+
+#huffpostimg {
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	height: 135px;
+	width: 20%;
+	z-index: 100;
+	background-color: #232066;
+}
+
+#cnnimg {
+	top: 0px;
+	left: 20%;
+	position: fixed;
+	height: 135px;
+	width: 20%;
+	z-index: 100;
+	background-color: #5A587B;
+}
+
+#bbcimg {
+	top: 0px;
+	left: 40%;
+	position: fixed;
+	height: 135px;
+	width: 20%;
+	z-index: 100;
+	background-color: #909090;
+}
+
+#foximg {
+	top: 0px;
+	left: 60%;
+	position: fixed;
+	height: 135px;
+	width: 20%;
+	z-index: 100;
+	background-color: #BD574F;
+}
+
+#breitbartimg {
+	top: 0px;
+	left: 80%;
+	position: fixed;
+	height: 135px;
+	width: 20%;
+	z-index: 100;
+	background-color: #E91D0E;
+}
+
+a:link {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+a:active {
+	color: black;
+	text-decoration: none;
+}
+
+td {
+	padding-top: 0.23em;
+	padding-bottom: 0.23em;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	z-index: 100;
+}
+
